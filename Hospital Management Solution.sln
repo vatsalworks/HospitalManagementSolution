@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital Management Solution", "Hospital Management Solution\Hospital Management Solution.csproj", "{A4616A12-E61B-404C-9E5D-041A28E4B240}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Entities", "..\NetFrwk_Projects_18July\Application.Entities\Application.Entities.csproj", "{C46EDD38-6A97-4E02-925F-B38C79D572DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{F76A9857-56EF-48EB-8031-47D104C6594D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,10 @@ Global
 		{A4616A12-E61B-404C-9E5D-041A28E4B240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4616A12-E61B-404C-9E5D-041A28E4B240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4616A12-E61B-404C-9E5D-041A28E4B240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46EDD38-6A97-4E02-925F-B38C79D572DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46EDD38-6A97-4E02-925F-B38C79D572DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46EDD38-6A97-4E02-925F-B38C79D572DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46EDD38-6A97-4E02-925F-B38C79D572DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
